@@ -1,6 +1,6 @@
 # Agent User Response File.
 CONFIG_DIR= /usr/local/tomcat/conf
-AM_SERVER_URL= http://openam.example.com/openam
+AM_SERVER_URL= http://openam.example.com:8080/openam
 CATALINA_HOME= /usr/local/tomcat
 INSTALL_GLOBAL_WEB_XML=
 AGENT_URL= http://localhost:8080/agentapp
